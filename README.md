@@ -11,4 +11,6 @@
 4. Choose to open the file with a web browser of your choice.
 5. Learn your letters!
 
-Note: these instructions are intended for use while this website is not live.
+*-or-*
+
+See it in action on GitHub Pages at letter-learner.github.io/
